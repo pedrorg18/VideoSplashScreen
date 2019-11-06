@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoSplashScreen</string>
+    <string name="hello_this_is_main_screen">Hello, this is Main Screen!</string>
+    <string name="splash">Splash...</string>
+</resources>
